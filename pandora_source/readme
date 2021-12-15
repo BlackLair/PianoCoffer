@@ -23,6 +23,6 @@ sudo rfcomm bind rfcommX [맥주소] <-라즈베리파이 재부팅마다 하
 소스코드
 #define BAUD_RATE 9600 <-아두이노 Serial.begin(9600) 같게 설정
 
-gcc : lwiringPi, lpthread
+#gcc -o pandora pandora.c lcd.c -lwiringPi -lpthread
 
 라즈베리파이 프로그램 먼저 실행 후 아두이노 리셋
