@@ -1,3 +1,15 @@
+2021 - 2 IoT응용과실습 팀 프로젝트
+
+팀명 : 판도라
+
+팀장 : 권정우
+팀원 : 정덕영
+팀원 : 봉현진
+
+
+
+
+
 bluetoothctl에서 scan on으로 기기 탐색
 98:D3:31:F4:19:CB
 pair [맥주소] 입력
@@ -12,3 +24,5 @@ sudo rfcomm bind rfcommX [맥주소] <-라즈베리파이 재부팅마다 하
 #define BAUD_RATE 9600 <-아두이노 Serial.begin(9600) 같게 설정
 
 gcc : lwiringPi, lpthread
+
+라즈베리파이 프로그램 먼저 실행 후 아두이노 리셋
