@@ -21,7 +21,7 @@
 시연 동영상 링크
 
 외관
-https://drive.google.com/file/d/1F5EI1GQPqf3rj1AVO_uuNozF0aXrd3wJ/view?usp=drive_link
+https://drive.google.com/file/d/10iutcgW0R8ForyC4our6i9kRKq_jjPc0/view?usp=drive_link
 
 주요 기능
 https://drive.google.com/file/d/1F5EI1GQPqf3rj1AVO_uuNozF0aXrd3wJ/view?usp=drive_link
