@@ -7,6 +7,26 @@
 팀원 : 봉현진
 
 
+주제 : 나만의 피아노 비밀금고
+
+
+
+비밀 멜로디를 연주하고 지문 인증을 해야 열 수 있는 나만의 피아노 비밀금고를 제작하였습니다.
+라즈베리파이, 3D 프린터와 다양한 센서나 모터와 같은 부품들을 활용하였습니다.
+
+
+시연 동영상 링크
+
+외관
+https://drive.google.com/file/d/1F5EI1GQPqf3rj1AVO_uuNozF0aXrd3wJ/view?usp=drive_link
+
+주요 기능
+https://drive.google.com/file/d/1F5EI1GQPqf3rj1AVO_uuNozF0aXrd3wJ/view?usp=drive_link
+
+도난방지기능
+https://drive.google.com/file/d/1X26DPXjGWaVRqI_w3yZSqXGgsqibXa_u/view?usp=drive_link
+
+
 
 
 
@@ -29,11 +49,3 @@ sudo rfcomm bind rfcommX [맥주소] <-라즈베리파이 재부팅마다 하
 
 
 
-외관
-https://drive.google.com/file/d/1F5EI1GQPqf3rj1AVO_uuNozF0aXrd3wJ/view?usp=drive_link
-
-주요 기능
-https://drive.google.com/file/d/1F5EI1GQPqf3rj1AVO_uuNozF0aXrd3wJ/view?usp=drive_link
-
-도난방지기능
-https://drive.google.com/file/d/1X26DPXjGWaVRqI_w3yZSqXGgsqibXa_u/view?usp=drive_link
