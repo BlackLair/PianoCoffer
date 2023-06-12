@@ -26,3 +26,14 @@ sudo rfcomm bind rfcommX [맥주소] <-라즈베리파이 재부팅마다 하
 #gcc -o pandora pandora.c lcd.c -lwiringPi -lpthread
 
 라즈베리파이 프로그램 먼저 실행 후 아두이노 리셋
+
+
+
+외관
+https://drive.google.com/file/d/1F5EI1GQPqf3rj1AVO_uuNozF0aXrd3wJ/view?usp=drive_link
+
+주요 기능
+https://drive.google.com/file/d/1F5EI1GQPqf3rj1AVO_uuNozF0aXrd3wJ/view?usp=drive_link
+
+도난방지기능
+https://drive.google.com/file/d/1X26DPXjGWaVRqI_w3yZSqXGgsqibXa_u/view?usp=drive_link
