@@ -38,9 +38,6 @@ https://drive.google.com/file/d/1F5EI1GQPqf3rj1AVO_uuNozF0aXrd3wJ/view?usp=drive
 https://drive.google.com/file/d/1X26DPXjGWaVRqI_w3yZSqXGgsqibXa_u/view?usp=drive_link
 
 
-* 보관함 내부 모습도 동시에 촬영하였으나 영상 파일 복구 불가
-
-
 
 
 
