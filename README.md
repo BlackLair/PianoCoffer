@@ -1,15 +1,14 @@
-2021 - 2 IoT응용과실습 팀 프로젝트
+## 2021 - 2 IoT응용과실습 팀 프로젝트
 
 팀명 : 판도라
 
 팀장 : 권정우
 
-팀원 : 정덕영
-
-팀원 : 봉현진
+팀원 : 정덕영, 봉현진
 
 
-주제 : 나만의 피아노 비밀금고
+
+## 나만의 피아노 비밀금고
 
 ![KakaoTalk_20211215_113735110](https://github.com/BlackLair/PianoCoffer/assets/80610197/f12e4541-5272-499d-8d4c-331f52a04cbf)
 
@@ -26,7 +25,7 @@ C언어(라즈베리파이, 아두이노)로 코딩하고, Autodesk Fusion 360�
 
 
 
-시연 동영상 링크
+## 🔗 시연 동영상
 
 외관
 https://drive.google.com/file/d/10iutcgW0R8ForyC4our6i9kRKq_jjPc0/view?usp=drive_link
@@ -37,9 +36,7 @@ https://drive.google.com/file/d/1F5EI1GQPqf3rj1AVO_uuNozF0aXrd3wJ/view?usp=drive
 도난방지기능
 https://drive.google.com/file/d/1X26DPXjGWaVRqI_w3yZSqXGgsqibXa_u/view?usp=drive_link
 
-
-
-
+## Usage
 
 bluetoothctl에서 scan on으로 기기 탐색
 98:D3:31:F4:19:CB
